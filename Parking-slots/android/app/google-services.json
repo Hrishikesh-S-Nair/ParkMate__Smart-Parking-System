@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "227274620104",
+    "project_id": "smart-parking-system-2108f",
+    "storage_bucket": "smart-parking-system-2108f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227274620104:android:e3b6809a8401a7193bf9fd",
+        "android_client_info": {
+          "package_name": "com.example.parking_slots"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227274620104-tv2e3enfajs6tk51k0i3ae3gl2vd6pf1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.parking_slots",
+            "certificate_hash": "454261f1296fbaf05a6f54b887d059c446b79f29"
+          }
+        },
+        {
+          "client_id": "227274620104-94bnherevpkbk1kb5l1fjluiepfgok6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB0-WXs4rd1i1GgwQ4HY4oo1Smh8f6GFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227274620104-94bnherevpkbk1kb5l1fjluiepfgok6v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
